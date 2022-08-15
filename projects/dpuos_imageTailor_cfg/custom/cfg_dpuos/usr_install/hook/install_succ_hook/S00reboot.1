@@ -1,0 +1,50 @@
+#!/bin/bash
+
+###############################################
+#    Description: wait for reboot
+#    Parameter:   param1:wait times
+#    Return:      0-success, 1-failed
+###############################################
+function INIT_Wait_Reboot()
+{
+    local count=$1
+    while [ "${count}" -gt 0 ]
+    do
+        echo -e " ${count} \c"
+        ((count--))
+        sleep 1
+    done
+    echo ""
+}
+
+disk_dev=`df -h | grep "boot/efi" | awk '{print $1}'`
+if [[ ${disk_dev} == /dev/nvme* ]]; then
+    blk=${disk_dev/p*}
+    partition=${disk_dev/$blk}
+else
+    blk=${disk_dev/[0-9]*}
+fi
+partition=${disk_dev:(-1)}
+efibootmgr -c -w -L 'DPU Linux' -d ${blk} -p ${partition} -l '\EFI\euleros\shimaa64.efi'
+shim_order=`efibootmgr -v | grep BootOrder | awk -F' ' '{print $2}' | awk -F ',' '{print $1}'`
+bootoption=`efibootmgr -v | grep "Boot${shim_order}\*" | awk '{print $NF}' | awk -F '/' '{print $1}'`
+while read line
+do
+        boot=`echo $line | awk '{print $NF}' | awk -F'/' '{print $1}'`
+        if [[ "${boot}" == $bootoption ]]; then
+            num=`echo $line | grep -v $shim_order | awk '{print $1}' | sed 's/Boot//' | sed 's/\*//'`
+        if [[ -n $num ]]; then
+            efibootmgr -b ${num} -B
+        fi
+        fi
+done <<< `efibootmgr -v`
+sync
+
+touch /mnt/disk/.autorelabel
+
+echo "The System will be reboot after 5 seconds."
+INIT_Wait_Reboot 5
+
+reboot
+
+sleep 60

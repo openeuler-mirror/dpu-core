@@ -1,0 +1,7 @@
+name=OS.tar.gz
+cmdtype=rh-cmd
+kernelversion=5.10.0
+localversion=.aarch64
+eulerversion=openEuler
+uncompresstime=2
+compiletime=

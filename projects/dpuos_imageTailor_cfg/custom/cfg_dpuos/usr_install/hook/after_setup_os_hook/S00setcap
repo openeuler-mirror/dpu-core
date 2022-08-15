@@ -1,0 +1,11 @@
+#!/bin/bash
+
+####################################################
+#    Description: setcap for some cmd
+####################################################
+if [ -f /mnt/disk/root/.cap ]; then
+    chroot /mnt/disk awk '{system("/usr/sbin/setcap "$3" "$1)}' /root/.cap
+    rm -rf /mnt/disk/root/.cap
+fi
+
+return 0
