@@ -13,14 +13,17 @@
 ## 业界调研
 > DPU相关白皮书、市场调研等
 
-- [DPU介绍 - from NVIDIA](https://blogs.nvidia.com/blog/2020/05/20/whats-a-dpu-data-processing-unit/)
-- [STH:DPU/smartNIC/FPGA介绍及对比](https://www.servethehome.com/dpu-vs-smartnic-sth-nic-continuum-framework-for-discussing-nic-types/)
-- [The Fungible DPU： A New Category of Microprocessor](https://www.fungible.com/wp-content/uploads/2020/08/WP0027.00.02020818-The-Fungible-DPU-A-New-Category-of-Microprocessor.pdf)
-- [中科驭数： 专用处理器（DPU）技术白皮书](https://www.yusur.tech/zkls/pdf/DPU-whitepaper-v1.0-final-21.pdf)
-- [The Linley Group： DPU-Based Hardware Acceleration: A Software Perspective](https://www.linleygroup.com/uploads/nvidia-doca-white-paper.pdf) 
+- [出行洞察：DPU市场火热，“芯”战场发展前景如何？]( https://www.sohu.com/a/521211586_621617) 2022-02-07
+- [赛迪顾问： 2021中国DPU行业发展白皮书](https://microsite-wx-industries.nvidia.cn/Uploads/20211209/61b1809e68fba.pdf) 2021-11-09
+- [中科驭数： 专用处理器（DPU）技术白皮书](https://www.yusur.tech/zkls/pdf/DPU-whitepaper-v1.0-final-21.pdf) 2021-10-01
+- [The Linley Group： DPU-Based Hardware Acceleration: A Software Perspective](https://www.linleygroup.com/uploads/nvidia-doca-white-paper.pdf) 2021-06-01
 	- [中文版](https://microsite-wx-industries.nvidia.cn/Uploads/20210802/61079ecfe23bc.pdf)
-- [赛迪顾问： 2021中国DPU行业发展白皮书](https://microsite-wx-industries.nvidia.cn/Uploads/20211209/61b1809e68fba.pdf)
-- [出行洞察：DPU市场火热，“芯”战场发展前景如何？]( https://www.sohu.com/a/521211586_621617)
+- [STH:DPU/smartNIC/FPGA介绍及对比](https://www.servethehome.com/dpu-vs-smartnic-sth-nic-continuum-framework-for-discussing-nic-types/) 2021-05-29
+- [DPU芯片新物种 | 开启第三大算力支柱的狂野想象](https://zhuanlan.zhihu.com/p/368962002) 2021-04-30
+- [大有可为的DPU芯片](https://www.rabee-alwan.com/s/electronic_components/23/42002.shtml) 2021-04-08
+- [算力经济下DPU芯片的发展机遇](https://www.sohu.com/a/457162002_632967) 2021-03-24
+- [The Fungible DPU： A New Category of Microprocessor](https://www.fungible.com/wp-content/uploads/2020/08/WP0027.00.02020818-The-Fungible-DPU-A-New-Category-of-Microprocessor.pdf) 2020-08-18
+- [DPU介绍 - from NVIDIA](https://blogs.nvidia.com/blog/2020/05/20/whats-a-dpu-data-processing-unit/) 2020-05-20
 
 ## DPU厂商 
 > DPU厂商及产品介绍
