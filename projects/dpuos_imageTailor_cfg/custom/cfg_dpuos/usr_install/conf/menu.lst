@@ -1,0 +1,7 @@
+default 0
+timeout 5
+
+title openEuler
+    root (hd0,1)
+    kernel=/boot/vmlinuz noexec=on nmi_watchdog=1 intel_iommu=on iommu=pt selinux=0 pci=realloc console=tty0 console=ttyS0,115200 nohz=off highres=on hpet=enable oops=panic panic=3 hugepagesz=2M default_hugepagesz=2M crashkernel=512M
+    initrd=/boot/initrd

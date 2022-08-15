@@ -1,0 +1,7 @@
+addonscript/
+addonscript/after_inssucc_hook/
+addonscript/after_inssucc_hook/S01service_control.sh
+addonscript/before_install_hook/
+addonscript/before_mkfirstboot_hook/
+addonscript/before_mkinitrd_hook/
+addonscript/before_reboot_hook/

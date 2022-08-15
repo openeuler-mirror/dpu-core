@@ -1,0 +1,9 @@
+set el_precmd_msg = `history 1|cut -f3-|sed -e "s|{||g" | sed -e "s|}||g"`
+set el_precmd_user = `whoami`
+set el_precmd_loginuser = `who -m | awk '{print $2" "$NF}'`
+set el_precmd_num = `history 1| awk -F" " '{print $1}'`
+
+if ((${el_precmd_num} != ${LastComandNum_for_history}) && (${LastComandNum_for_history} != "" || ${el_precmd_num} == 1)) then
+    logger -t "[/bin/csh]" "[${el_precmd_msg}]" "by [${el_precmd_user}] from [${el_precmd_loginuser}]" > /dev/null
+endif
+set LastComandNum_for_history = ${el_precmd_num}

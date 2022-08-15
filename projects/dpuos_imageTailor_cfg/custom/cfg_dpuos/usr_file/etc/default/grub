@@ -1,0 +1,5 @@
+GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0 crashkernel=512M oops=panic softlockup_panic=1 reserve_kbox_mem=16M crash_kexec_post_notifiers panic=3 console=tty0 fsck.mode=auto fsck.repair=yes nmi_watchdog=1 no-steal-time use-sched-idle-time rd.shell=0"
+GRUB_DISABLE_SUBMENU="true"
+GRUB_DISABLE_RECOVERY="true"
+GRUB_TERMINAL_OUTPUT="console"
+GRUB_TIMEOUT=5
