@@ -13,6 +13,8 @@
 ## 业界调研
 > DPU相关白皮书、市场调研等
 
+- [行稳致远：腾讯自研DPU商用情况与技术演进](https://mp.weixin.qq.com/s/cSjluFJVlrWYJCJpQmTGnA) 2022-09-09
+- [中国移动DPU技术白皮书](https://mp.weixin.qq.com/s/TM6WpiJLnwV1lgWxDzg2DA) 2022-07-29
 - [出行洞察：DPU市场火热，“芯”战场发展前景如何？]( https://www.sohu.com/a/521211586_621617) 2022-02-07
 - [赛迪顾问： 2021中国DPU行业发展白皮书](https://microsite-wx-industries.nvidia.cn/Uploads/20211209/61b1809e68fba.pdf) 2021-11-09
 - [中科驭数： 专用处理器（DPU）技术白皮书](https://www.yusur.tech/zkls/pdf/DPU-whitepaper-v1.0-final-21.pdf) 2021-10-01
@@ -94,11 +96,12 @@
 
 > DPU相关洞察及技术介绍博客等
 
-- [科普 | 什么是DPU？](https://mp.weixin.qq.com/s/l8NaK_KX9MXjaD6QCjKAHA)
-- [详解：DPU五层架构软件栈模型](https://mp.weixin.qq.com/s/Gy3OKNAnRwKx-AT1WNVloA)
-- [DPU：“劫机”服务器生态](https://mp.weixin.qq.com/s/ktD0ARiTCwzrNnn8SlaqmQ)
-- [从DPU的崛起谈谈计算体系变革](https://mp.weixin.qq.com/s/l_7EYBRRHyAkuh7HmnE1xQ)
-- [DPU技术发展概况](https://mp.weixin.qq.com/s/spkp-sBaHuZFj3NvUTWQFA)
+- [DPU的微架构](https://mp.weixin.qq.com/s/CDPeLgX9hAvIAyQePecolg)  2022-08-26
+- [从DPU的崛起谈谈计算体系变革](https://mp.weixin.qq.com/s/l_7EYBRRHyAkuh7HmnE1xQ) 2022-05-20
+- [详解：DPU五层架构软件栈模型](https://mp.weixin.qq.com/s/Gy3OKNAnRwKx-AT1WNVloA) 2022-05-08
+- [DPU技术发展概况](https://mp.weixin.qq.com/s?__biz=Mzg2NDgzNTQ4MA==&mid=2247656685&idx=2&sn=a19a71519121b467b3784bb11822ded1&source=41#wechat_redirect) 2021-10-18
+- [DPU：“劫机”服务器生态](https://mp.weixin.qq.com/s/ktD0ARiTCwzrNnn8SlaqmQ)  2021-08-30
+- [科普 | 什么是DPU？](https://mp.weixin.qq.com/s/l8NaK_KX9MXjaD6QCjKAHA) 2020-06-01
 
 ## 学术研究
 > DPU相关论文、专利等
