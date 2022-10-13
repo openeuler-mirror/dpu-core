@@ -13,7 +13,7 @@
 
 该文档描述DPU的云计算应用场景（不全面，待补充），并描述为了实现这些场景各个组件需要提供的接口能力。根据要提供的接口能力整理出这些应用场景下对DPU的需求点。(`DPU_VM`=VM场景的需求，`DPU_BM`=BM场景的需求，`DPU_BOTH`=两种场景共同需求)
 
-![dpu_and_platform(png can be edit by draw.io)](dpu_with_platform.png)
+![dpu_and_platform(png can be edit by draw.io)](./figures/dpu_with_platform.png)
 
 ## 云计算场景描述 <a name="scenarios"></a>
 --------
