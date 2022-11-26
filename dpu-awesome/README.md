@@ -70,6 +70,10 @@
 - [Agilio](https://www.corigine.com.cn/cn/smartnic.html) - 芯启源Agilio系列DPU产品，包含Agilio CX、Agilio FX及Agilio LX系列
 - [芯启源首次公开"SmartNIC第四代架构"如何赋能DPU蓝海](https://www.prnasia.com/story/359933-1.shtml)
 
+#### [益思芯](http://www.resnics.com/)
+- [益思芯科技重磅发布NVMe-oF存储加速卡](http://www.resnics.com/news/yi-si-xin-ke-ji-zhong-bang-fa-bu-nvme-of-cun-chu-jia-su-ka)
+- [助力“东数西算”，益思芯科技推出P4云原生智能网卡](http://www.resnics.com/news/zhu-li-dong-shu-xi-suan-yi-si-xin-ke-ji-zhi-nen-wang-ka-fang-an-zheng-shi-luo-di)
+
 #### [云豹智能](https://www.jaguarmicro.com/)
 - [云豹智能发布全功能云霄DPU产品，引领数据中心新趋势](https://www.jaguarmicro.com/n4.html)
 
