@@ -30,7 +30,3 @@ cp -rf kiwi/minios/cfg_dpuos /opt/imageTailor/kiwi/minios/cfg_dpuos
 cd /opt/imageTailor
 ./mkdliso -p dpuos -c custom/cfg_dpuos --sec --minios force
 ```
-
-## 其他
-`EulerOS`特有的一些不包 esyslog-log-collect.noarch kbox-kmod.aarch64 sut.aarch64 secAgent.aarch64 在openEuler中是没有的。
-
