@@ -480,9 +480,18 @@ dpu接口设计.md
 ### 6.1 bond使能
 
   ```
-    message EthMacBondSetRequest{
+    message BondOpts{
+		required string opt_name = 1;
+		required string value = 2;
+	}
+	
+	
+	message EthMacBondSetRequest{
       required bool enable = 1;
+	  repeated BondOpts bond_opts= 2;  /*for bond_opts */
+	
     }
+	
     
     message EthMacBondSetResponse{
 	  required uint32 status = 1;
