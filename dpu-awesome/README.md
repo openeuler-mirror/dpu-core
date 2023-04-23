@@ -13,6 +13,9 @@
 ## 业界调研
 > DPU相关白皮书、市场调研等
 
+- [IPU / DPU 双雄对决：英特尔 vs 英伟达](https://mp.weixin.qq.com/s/ZauOISSt5YyrWP8oryBZXQ) 2023-04-02
+- [浅谈DPU产业发展现状](https://mp.weixin.qq.com/s/00TyQArhdkWO_rELQEbaFg) 2023-01-02
+- [中国信通院：DPU发展分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230110_413879.htm) 2023-01-01
 - [行稳致远：腾讯自研DPU商用情况与技术演进](https://mp.weixin.qq.com/s/cSjluFJVlrWYJCJpQmTGnA) 2022-09-09
 - [中国移动DPU技术白皮书](https://mp.weixin.qq.com/s/TM6WpiJLnwV1lgWxDzg2DA) 2022-07-29
 - [出行洞察：DPU市场火热，“芯”战场发展前景如何？]( https://www.sohu.com/a/521211586_621617) 2022-02-07
@@ -29,6 +32,8 @@
 
 ## DPU厂商 
 > DPU厂商及产品介绍
+
+- [史上最全DPU厂商大盘点（完整版）](https://mp.weixin.qq.com/s/HcY9IkX85zplzVUzljYIyg) 2022-07-21
 
 #### [Broadcom](https://www.broadcom.com/)
 - [Stingray](https://docs.broadcom.com/doc/PS250-PB) - Broadcom Stringray系列DPU产品介绍
@@ -100,12 +105,18 @@
 
 > DPU相关洞察及技术介绍博客等
 
+- [DPU成芯片设计新战场](https://mp.weixin.qq.com/s?__biz=MzkzMjQzNTQ1MA==&mid=2247561872&idx=5&sn=e72a345ebfc16af1fe76ee1c01f6233e&source=41#wechat_redirect) 2022-12-29
 - [DPU的微架构](https://mp.weixin.qq.com/s/CDPeLgX9hAvIAyQePecolg)  2022-08-26
+- [要做一个政治正确的DPU哦](https://zhuanlan.zhihu.com/p/550599378) 2020-08-07
 - [从DPU的崛起谈谈计算体系变革](https://mp.weixin.qq.com/s/l_7EYBRRHyAkuh7HmnE1xQ) 2022-05-20
 - [详解：DPU五层架构软件栈模型](https://mp.weixin.qq.com/s/Gy3OKNAnRwKx-AT1WNVloA) 2022-05-08
+- [拿起棉签，捅一捅DPU的落地的困难](https://zhuanlan.zhihu.com/p/473102686) 2022-03-15
 - [DPU技术发展概况](https://mp.weixin.qq.com/s?__biz=Mzg2NDgzNTQ4MA==&mid=2247656685&idx=2&sn=a19a71519121b467b3784bb11822ded1&source=41#wechat_redirect) 2021-10-18
+- [向上，点亮未来：DPU的若干代数问题](https://mp.weixin.qq.com/s/qk0d7O9yuwNIZF-UD_07JA) 2022-03-02
 - [DPU：“劫机”服务器生态](https://mp.weixin.qq.com/s/ktD0ARiTCwzrNnn8SlaqmQ)  2021-08-30
+- [What Is A DPU (Data Processing Unit)?](https://premioinc.com/blogs/blog/what-is-a-dpu-data-processing-unit) 2021-05-12
 - [科普 | 什么是DPU？](https://mp.weixin.qq.com/s/l8NaK_KX9MXjaD6QCjKAHA) 2020-06-01
+
 
 ## 学术研究
 > DPU相关论文、专利等
