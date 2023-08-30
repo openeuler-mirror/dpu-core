@@ -16,6 +16,8 @@
 - [IPU / DPU 双雄对决：英特尔 vs 英伟达](https://mp.weixin.qq.com/s/ZauOISSt5YyrWP8oryBZXQ) 2023-04-02
 - [浅谈DPU产业发展现状](https://mp.weixin.qq.com/s/00TyQArhdkWO_rELQEbaFg) 2023-01-02
 - [中国信通院：DPU发展分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230110_413879.htm) 2023-01-01
+- [第一批做DPU芯片的厂商发展怎样了？](https://mp.weixin.qq.com/s/AFdDozQoxJWlOM5l00JnMg) 2022-10-01
+- [收购两家公司后，AMD推出新型DPU](https://mp.weixin.qq.com/s/bKamlR7jifWxsXQNx8RpRA) 2022-08-26
 - [行稳致远：腾讯自研DPU商用情况与技术演进](https://mp.weixin.qq.com/s/cSjluFJVlrWYJCJpQmTGnA) 2022-09-09
 - [中国移动DPU技术白皮书](https://mp.weixin.qq.com/s/TM6WpiJLnwV1lgWxDzg2DA) 2022-07-29
 - [出行洞察：DPU市场火热，“芯”战场发展前景如何？]( https://www.sohu.com/a/521211586_621617) 2022-02-07
@@ -41,6 +43,7 @@
 #### [DreamBigSemi](https://dreambigsemi.com/)
 
 #### [Fungible](https://www.fungible.com/)
+- [微软官宣：收购DPU先驱Fungible](https://mp.weixin.qq.com/s/_gXuvIGXV1Lhq-Zp5rVJxA) 2023-01-10
 - [DPU产品](https://www.fungible.com/product/dpu-platform/) - Fungible DPU产品入口
 	- [Fungible F1 DPU](https://www.fungible.com/wp-content/uploads/2021/09/PB0028.02.12020914-Fungible-F1-Data-Processing-Unit.pdf)
 	- [Fungible S1 DPU](https://www.fungible.com/wp-content/uploads/2021/09/PB0029.03.12020914-Fungible-S1-Data-Processing-Unit.pdf)
@@ -90,6 +93,8 @@
 ## 使用场景
 > 介绍DPU的潜在或已有使用场景及诉求
 
+- [成功的大语言模型正在催生DPU发展机遇！](https://mp.weixin.qq.com/s/dF0BpG7VPeSd50RCRVnUXw) 2023-04-20
+
 ## 硬件特性 
 > DPU所包含的硬件能力介绍汇总
 
@@ -105,6 +110,7 @@
 
 > DPU相关洞察及技术介绍博客等
 
+- [DPU简介及发展](https://mp.weixin.qq.com/s/_28nL6X9DqdJZQ5x11UeIg)  2023-08-09
 - [DPU成芯片设计新战场](https://mp.weixin.qq.com/s?__biz=MzkzMjQzNTQ1MA==&mid=2247561872&idx=5&sn=e72a345ebfc16af1fe76ee1c01f6233e&source=41#wechat_redirect) 2022-12-29
 - [DPU的微架构](https://mp.weixin.qq.com/s/CDPeLgX9hAvIAyQePecolg)  2022-08-26
 - [要做一个政治正确的DPU哦](https://zhuanlan.zhihu.com/p/550599378) 2020-08-07
