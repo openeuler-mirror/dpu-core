@@ -3,7 +3,7 @@
 本手册主要介绍如何使用`imageTailor`并结合本仓库的`dpuos`配置文件如何裁剪得到`dpuos`的安装镜像，具体步骤如下：
 
 ## 准备imageTailor和所需的rpm包
-参照`https://docs.openeuler.org/zh/docs/22.03_LTS/docs/TailorCustom/imageTailor-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html`安装好`imageTailor`工具并将裁剪所要用到的rpm包准备好。
+参照`https://docs.openeuler.org/zh/docs/22.03_LTS/docs/TailorCustom/imageTailor%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html`安装好`imageTailor`工具并将裁剪所要用到的rpm包准备好。
 镜像`openEuler-22.03-LTS-everything-debug-aarch64-dvd.iso`中的rpm比较全但是此镜像很大，可以用镜像`openEuler-22.03-LTS-aarch64-dvd.iso`中的rpm包外加一个`install-scripts.noarch`（从everything镜像中获取）就可以了。
 
 ## 拷贝dpuos相关的配置文件
