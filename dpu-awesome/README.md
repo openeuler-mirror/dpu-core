@@ -127,9 +127,12 @@
 ## 学术研究
 > DPU相关论文、专利等
 
-- [A Comprehensive Study on Optimizing Systems with Data Processing Units](https://arxiv.org/abs/2301.06070) (arXiv:2301.06070 2023)
-- [Hyperion: A Case for Unified, Self-Hosting, Zero-CPU Data-Processing Units (DPUs)](https://arxiv.org/abs/2205.08882) (arXiv:2205.08882 2022)
-- [Serverless Computing on Heterogeneous Computers](https://dl.acm.org/doi/10.1145/3503222.3507732) (ASPLOS 2022)
+- [A DPU Solution for Container Overlay Networks](https://arxiv.org/abs/2211.10495) (arXiv:2211.10495 2023-11-18)
+- [Hypersparse Traffic Matrix Construction using GraphBLAS on a DPU](https://arxiv.org/abs/2310.18334) (arXiv:2310.18334 2023-10-20)
+- [A Comprehensive Study on Optimizing Systems with Data Processing Units](https://arxiv.org/abs/2301.06070) (arXiv:2301.06070 2023-01-15)
+- [Introducing Data Processing Units (DPU) at the Edge](https://ieeexplore.ieee.org/document/9868927) (ICCCN 2022-07-25)
+- [Hyperion: A Case for Unified, Self-Hosting, Zero-CPU Data-Processing Units (DPUs)](https://arxiv.org/abs/2205.08882) (arXiv:2205.08882 2022-05-18)
+- [Serverless Computing on Heterogeneous Computers](https://dl.acm.org/doi/10.1145/3503222.3507732) (ASPLOS 2022-02-28)
 - [Accelerating CPU-based Distributed DNN Training on Modern HPC Clusters using BlueField-2 DPUs](https://ieeexplore.ieee.org/abstract/document/9547047) (HOTI 2021)
 - [Adaptable Switch: A Heterogeneous Switch Architecture for Network-Centric Computing](https://ieeexplore.ieee.org/abstract/document/9311937) (IEEE Communications Magazine 2020)
 
