@@ -62,6 +62,7 @@
 	- [BlueField2](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/documents/datasheet-nvidia-bluefield-2-dpu.pdf)
 	- [BlueField3](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/documents/datasheet-nvidia-bluefield-3-dpu.pdf)
 	- [融合加速器](https://www.nvidia.com/content/dam/en-zz/Solutions/gtcf21/converged-accelerator/pdf/datasheet.pdf)
+    - [NVIDIA DPU HPC/AI](https://nowlab.cse.ohio-state.edu/static/media/workshops/presentations/exacomm23/NVIDIA_DPU_HPC_Networking_ISC23_Exacomm.pdf)
 
 #### [Pensando](https://pensando.io/)
 - [DSC](https://pensando.io/products/dsc/) - Pensando DSC系列DPU介绍
@@ -88,6 +89,7 @@
 #### [中科驭数](https://www.yusur.tech/zkls/zkys/index.html)
 - [DPU芯片](https://www.yusur.tech/zkls/zkys/dpu_product.html) - 中科驭数自研KPU架构
 - [DPU产品](https://www.yusur.tech/zkls/zkys/speed_product_01.html) - 包含中科驭数SWIFT-2100N、SWIFT-2100N、CONFLUX-1900R、CONFLUX-2100B系列产品
+- [FlatProxy: A DPU-centric Service Mesh Architecture for Hyperscale Cloud-native Application](https://arxiv.org/abs/2312.01297)
 
 
 ## 使用场景
