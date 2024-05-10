@@ -1,0 +1,15 @@
+kill
+taskset
+qemu-kvm
+rexec_shim
+/usr/bin/taskset
+/usr/bin/kill
+/usr/bin/qemu-kvm
+/usr/bin/rexec_shim
+/usr/bin/dockerd
+/usr/bin/containerd
+/usr/bin/rexec_shim
+/usr/bin/containerd-shim
+/usr/bin/containerd-real
+/usr/bin/runc
+/usr/bin/modprobe

@@ -1,0 +1,12 @@
+[Unit]
+Description=Rexec_server Service
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/rexec_server
+ExecReload=/bin/kill -s HUP $MAINPID
+KillMode=process
+
+[Install]
+WantedBy=multi-user.target
