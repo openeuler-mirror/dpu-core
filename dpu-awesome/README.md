@@ -127,6 +127,7 @@
 ## 学术研究
 > DPU相关论文、专利等
 
+- [DPFS: DPU-Powered File System Virtualization](https://animeshtrivedi.github.io/files/papers/2023-systor-dpfs.pdf)
 - [Introducing Data Processing Units (DPU) at the Edge](https://www.researchgate.net/publication/363318700_Introducing_Data_Processing_Units_DPU_at_the_Edge_Invited)
 - [A DPU Solution for Container Overlay Networks](https://arxiv.org/abs/2211.10495) (arXiv:2211.10495 2023-11-18)
 - [Hypersparse Traffic Matrix Construction using GraphBLAS on a DPU](https://arxiv.org/abs/2310.18334) (arXiv:2310.18334 2023-10-20)
