@@ -129,10 +129,15 @@
 ## 学术研究
 > DPU相关论文、专利等
 
-- [DPFS: DPU-Powered File System Virtualization](https://animeshtrivedi.github.io/files/papers/2023-systor-dpfs.pdf)
-- [Introducing Data Processing Units (DPU) at the Edge](https://www.researchgate.net/publication/363318700_Introducing_Data_Processing_Units_DPU_at_the_Edge_Invited)
+- [HiDPU: A DPU-Oriented Hybrid Indexing Scheme for Disaggregated Storage Systems](https://www.usenix.org/conference/fast25/presentation/zhu) (FAST 2025-02-25)
+- [TianMen: a DPU-based storage network offloading structure for disaggregated datacenters](https://dl.acm.org/doi/10.1145/3698038.3698528) (SoCC 2024-11-20)
+- [DPU-Enhanced Network Security Situation Awareness Model for New Power Systems](https://dl.acm.org/doi/10.1145/3701100.3701161) (ADMIT 2024-09-27)
+- [DPC: DPU-accelerated High-Performance File System Client](https://dl.acm.org/doi/10.1145/3673038.3673123) (ICPP 2024-08-12)
+- [DoW-KV: A DPU-offloaded and Write-optimized Key-Value Store on Disaggregated Persistent Memory](https://ieeexplore.ieee.org/document/10319972) (CLUSTER 2023-11-21)
 - [A DPU Solution for Container Overlay Networks](https://arxiv.org/abs/2211.10495) (arXiv:2211.10495 2023-11-18)
 - [Hypersparse Traffic Matrix Construction using GraphBLAS on a DPU](https://arxiv.org/abs/2310.18334) (arXiv:2310.18334 2023-10-20)
+- [DComp: Efficient Offload of LSM-tree Compaction with Data Processing Units](https://dl.acm.org/doi/10.1145/3605573.3605633) (ICPP 2023-09-13)
+- [DPFS: DPU-Powered File System Virtualization](https://animeshtrivedi.github.io/files/papers/2023-systor-dpfs.pdf) (SYSTOR 2023-06-05)
 - [A Comprehensive Study on Optimizing Systems with Data Processing Units](https://arxiv.org/abs/2301.06070) (arXiv:2301.06070 2023-01-15)
 - [Introducing Data Processing Units (DPU) at the Edge](https://ieeexplore.ieee.org/document/9868927) (ICCCN 2022-07-25)
 - [Hyperion: A Case for Unified, Self-Hosting, Zero-CPU Data-Processing Units (DPUs)](https://arxiv.org/abs/2205.08882) (arXiv:2205.08882 2022-05-18)
